@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dahkimr
 - 🌱 I’m interested in website and game development
-- 👀 I'm graduating with a Computer Science degree and am looking for work 
+- 👀 Software Developer and Computer Science Graduate looking for work in website or game development 
 - 📫 You can reach me at dahkim32@gmail.com
 
 <!---
