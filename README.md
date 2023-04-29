@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dahkimr
-- 🌱 I’m interested in website and game development
+- 🌱 2+ years of experience with web development with React and Angular
 - 👀 Software Developer and Computer Science Graduate interested in website or game development 
 
 <!---
