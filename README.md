@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dahkimr
-- 🌱 2+ years of experience with web development with React and Angular
+- 🌱 2.5+ years of experience with web development with React and Angular
 - 👀 Software Developer and Computer Science Graduate interested in website or game development 
 
 <!---
